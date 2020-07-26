@@ -1,0 +1,39 @@
+body{
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+}
+.btn{
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    margin:30px 10px 20px 30px;
+    color:rgb(30, 177, 218);
+    
+}
+#list{
+    list-style-image:url("white-black-pattern-white-circle-background.jpg");
+}
+
+#addi{
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    color:rgb(30, 177, 218);
+    
+}
+#delall{
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    color:rgb(30, 177, 218);
+}
+#todo-item{
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+}
+
+#first{
+    padding-top:300px;
+}
